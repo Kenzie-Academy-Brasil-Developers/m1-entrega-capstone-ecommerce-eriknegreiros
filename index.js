@@ -44,7 +44,7 @@ menu_lateral.appendChild(main);
 
 const data = [{
         id: 1,
-        imagem: '../img-2/plus.png',
+        imagem: './img-2/plus.png',
         categoria: 'Sneakers',
         produto: 'Air-Max Plus Sunset OG',
         descricao: 'Com um novo sistema de amortecimento, o Tênis Nike Air Max Plus proporciona uma passada leve vibrante...',
@@ -53,7 +53,7 @@ const data = [{
     },
     {
         id: 2,
-        imagem: '../img-2/piet.png',
+        imagem: './img-2/piet.png',
         categoria: 'Camisetas',
         produto: 'Pocket Tee Gray - Piet',
         descricao: 'Camiseta Piet Wild Life "Gray" Camiseta confeccionada em malha 100% algodão. Estampa frente e costas ...',
@@ -62,7 +62,7 @@ const data = [{
     },
     {
         id: 3,
-        imagem: '../img-2/bag.png',
+        imagem: './img-2/bag.png',
         categoria: 'Acessórios',
         produto: 'Bolsa Carteiro - Palace',
         descricao: 'Estampa frontal de logo, fechamento por zíper na parte superior, estampa frontal de logo, fechamento...',
@@ -71,7 +71,7 @@ const data = [{
     },
     {
         id: 4,
-        imagem: '../img-2/offwhite.png',
+        imagem: './img-2/offwhite.png',
         categoria: 'Camisetas',
         produto: 'Nike x Off-White',
         descricao: 'Virgil Abloh continua a explorar a área cinzenta entre moda e performance com a camiseta Nike...',
@@ -80,7 +80,7 @@ const data = [{
     },
     {
         id: 5,
-        imagem: '../img-2/adidas.png',
+        imagem: './img-2/adidas.png',
         categoria: 'Sneakers',
         produto: 'Adidas Bad Bunny',
         descricao: 'Esse novo Tênis adidas Forum x Bad Bunny "Back to School" seguem os passos da lenda do basquete...',
@@ -89,7 +89,7 @@ const data = [{
     },
     {
         id: 6,
-        imagem: '../img-2/supreme.png',
+        imagem: './img-2/supreme.png',
         categoria: 'Acessórios',
         produto: 'Five Panel Supreme',
         descricao: 'Logo bordado Logo supreme no fecho Ripstop de algodão com logotipo impresso fotossensível...',
