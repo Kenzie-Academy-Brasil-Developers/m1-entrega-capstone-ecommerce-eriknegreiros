@@ -299,4 +299,4 @@ function somaValor() {
 }
 const somaTotal = somaValor()
 
-valorTotal.innerText = somaTotal
+valorTotal.innerText  = somaTotal
