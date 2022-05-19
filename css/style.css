@@ -63,6 +63,11 @@ body {
     transition: 0.4s;
 }
 
+.selecionado{
+    font-weight: bold;
+}
+
+
 .item:hover {
     color: #37268C;
     text-decoration: none;
@@ -176,11 +181,12 @@ aside {
 
 .pesquisa {
     padding: 15px;
-    padding-right: 90px;
+    padding-right: 85px;
     border: none;
     text-align: left;
     background-color: #F5F5F5;
     font-size: 15px;
+    margin-right: 7px;
 }
 
 .btn {
@@ -221,15 +227,27 @@ aside {
     border-radius: 5px;
 }
 
+.apoio{
+    display: flex;
+}
+
+
+
 .imagem_carrinho {
     margin: 10px 5px 15px 10px;
     background-color: white;
-    width: 175px;
+    width: 180px;
     height: 110px;
     padding-top: 5px;
     cursor: pointer;
 
 }
+
+.img_carrinho{
+    width: 180px;
+    height: 110px;
+}
+
 
 .info {
     padding-top: 7px;
@@ -286,5 +304,5 @@ aside {
     color: white;
     display: flex;
     justify-content: space-between;
-    
 }
+
